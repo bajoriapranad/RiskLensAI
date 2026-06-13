@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "risklens-ai"
+version = "0.1.0"
+description = "Private Equity Due Diligence Copilot for financial distress screening."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "joblib",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "plotly",
+    "scikit-learn",
+    "streamlit",
+]
+
+[project.optional-dependencies]
+ml = [
+    "shap",
+    "xgboost",
+]
+dev = [
+    "pytest",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+risklens_ai = ["samples/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

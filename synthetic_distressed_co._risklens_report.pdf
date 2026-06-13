@@ -1,0 +1,159 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 2677 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(RiskLens AI Investment Memo) Tj
+T*
+(Date: 2026-06-13) Tj
+T*
+(Company: Synthetic Distressed Co.) Tj
+T*
+(Model version: risklens-xgb-v1.0) Tj
+T*
+() Tj
+T*
+(Executive View) Tj
+T*
+(Risk tier: LOW) Tj
+T*
+(Risk score: 0.3/100) Tj
+T*
+(Estimated bankruptcy probability: 0.3%) Tj
+T*
+(Recommendation: Proceed with standard diligence; monitor model-identified watch items.) Tj
+T*
+() Tj
+T*
+(Model Context) Tj
+T*
+(ROC-AUC: 0.9344) Tj
+T*
+(PR-AUC: 0.6349) Tj
+T*
+(Recall: 0.4747) Tj
+T*
+() Tj
+T*
+(Primary Risk Drivers) Tj
+T*
+(- Working capital: Working capital increases risk for this company. Contribution=0.006) Tj
+T*
+(- Operating expenses / short-term liabilities: Operating expenses / short-term liabilities) Tj
+T*
+(increases risk for this company. Contribution=0.003) Tj
+T*
+(- Logarithm of total assets: Logarithm of total assets increases risk for this company.) Tj
+T*
+(Contribution=0.003) Tj
+T*
+(- EBITDA / total assets: EBITDA / total assets increases risk for this company.) Tj
+T*
+(Contribution=0.002) Tj
+T*
+(- Long-term liabilities / equity: Long-term liabilities / equity increases risk for this) Tj
+T*
+(company. Contribution=0.001) Tj
+T*
+() Tj
+T*
+(Mitigating Factors) Tj
+T*
+(- Attr27_missing: Attr27_missing reduces risk for this company. Contribution=-0.007) Tj
+T*
+(- Current assets - inventory / short-term liabilities: Current assets - inventory / short-) Tj
+T*
+(term liabilities reduces risk for this company. Contribution=-0.007) Tj
+T*
+(- Total costs / total sales: Total costs / total sales reduces risk for this company.) Tj
+T*
+(Contribution=-0.006) Tj
+T*
+(- Profit on operating activities / financial expenses: Profit on operating activities /) Tj
+T*
+(financial expenses reduces risk for this company. Contribution=-0.005) Tj
+T*
+(- Total liabilities / operating profit + depreciation: Total liabilities / operating profit) Tj
+T*
+(+ depreciation reduces risk for this company. Contribution=-0.004) Tj
+T*
+() Tj
+T*
+(Due Diligence Questions) Tj
+T*
+(- What business event explains the unfavorable movement in working capital?) Tj
+T*
+(- Is working capital consistent with peer companies and prior-year performance?) Tj
+T*
+(- What business event explains the unfavorable movement in operating expenses / short-term) Tj
+T*
+(liabilities?) Tj
+T*
+(- Is operating expenses / short-term liabilities consistent with peer companies and prior-) Tj
+T*
+(year performance?) Tj
+T*
+(- What business event explains the unfavorable movement in logarithm of total assets?) Tj
+T*
+(- Is logarithm of total assets consistent with peer companies and prior-year performance?) Tj
+T*
+(- What business event explains the unfavorable movement in ebitda / total assets?) Tj
+T*
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 354 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(- Is ebitda / total assets consistent with peer companies and prior-year performance?) Tj
+T*
+() Tj
+T*
+(Analyst Note) Tj
+T*
+(RiskLens AI is a prioritization aid. It does not replace investment judgment,) Tj
+T*
+(quality of earnings work, legal review, management interviews, or investment) Tj
+T*
+(committee approval.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+7 0 obj
+<< /Type /Catalog /Pages 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000002808 00000 n 
+0000002934 00000 n 
+0000003339 00000 n 
+0000003465 00000 n 
+0000003528 00000 n 
+trailer
+<< /Size 8 /Root 7 0 R >>
+startxref
+3577
+%%EOF
